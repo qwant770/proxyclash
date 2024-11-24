@@ -1,0 +1,19 @@
+# 内容 OpenAi Bard anthropic claude
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,max
+
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,max.com,🎬 MAX
+DOMAIN-SUFFIX,discomax.com,🎬 MAX
+DOMAIN-SUFFIX,media.h264.io,🎬 MAX
+DOMAIN-SUFFIX,litix.io,🎬 MAX
+DOMAIN-SUFFIX,brightline.tv,🎬 MAX
+DOMAIN-SUFFIX,branch.io,🎬 MAX
+DOMAIN-SUFFIX,warnermediacdn.com,🎬 MAX
+DOMAIN-SUFFIX,wmcdp.io,🎬 MAX
+DOMAIN-SUFFIX,ngtv.io,🎬 MAX
+DOMAIN-SUFFIX,pypestream.com,🎬 MAX
+DOMAIN-SUFFIX,arkoselabs.com,🎬 MAX
+DOMAIN-SUFFIX,launchdarkly.com,🎬 MAX
