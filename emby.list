@@ -1,0 +1,8 @@
+# 内容 OpenAi Bard anthropic claude
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,emby
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,emby.wtf,📺 Emby
+DOMAIN-SUFFIX,term.wtf:,📺 Emby
