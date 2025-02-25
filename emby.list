@@ -4,6 +4,7 @@
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,ouonet
 DOMAIN-KEYWORD,org
+DOMAIN-KEYWORD,random
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,emby.wtf,📺 Emby
