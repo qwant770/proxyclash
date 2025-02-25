@@ -2,7 +2,10 @@
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,emby
+DOMAIN-KEYWORD,ouonet
+DOMAIN-KEYWORD,org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,emby.wtf,📺 Emby
 DOMAIN-SUFFIX,term.wtf,📺 Emby
+DOMAIN-SUFFIX,ouonet.org,📺 Emby
