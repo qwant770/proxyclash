@@ -7,6 +7,8 @@ DOMAIN-KEYWORD,rn1
 DOMAIN-KEYWORD,rn9
 DOMAIN-KEYWORD,mjj
 DOMAIN-KEYWORD,mxw
+DOMAIN-KEYWORD,ssr
+DOMAIN-KEYWORD,v2ray
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,rou.video,🌍 国外
@@ -23,3 +25,4 @@ DOMAIN-SUFFIX,rn147.xyz,🌍 国外
 DOMAIN-SUFFIX,rn121.xyz,🌍 国外
 DOMAIN-SUFFIX,mjjspeed.com,🌍 国外
 DOMAIN-SUFFIX,mxwljsq.top,🌍 国外
+DOMAIN-SUFFIX,v2rayssr.com,🌍 国外
