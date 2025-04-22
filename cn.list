@@ -1,1 +1,1 @@
-IP-CIDR,223.111.179.30,DIRECT #匹配数据目标IP(直连)
+IP-CIDR,223.111.179.30,no-resolve
