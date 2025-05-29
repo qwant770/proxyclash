@@ -443,7 +443,7 @@ rule-providers:
   Youtube / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs"}
   TikTok / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"}
   Netflix / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.mrs"}
-  Emby / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/qwant770/proxyclash/refs/heads/main/emby.list"}
+  Emby / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/qwant770/proxyclash/refs/heads/main/emby.list"}
   Netflix / IP: {<<: *ip, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs"}
   Disney / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/disney.mrs"}
   HBO / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hbo.mrs"}
@@ -461,12 +461,12 @@ rule-providers:
   Globe / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list"} 
   Direct / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Direct.list"}
   China / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
-  Me / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/qwant770/proxyclash/refs/heads/main/cn.list"}
-  Me1 / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list"}
-  Me2 / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"}
-  Me3 / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list"}
-  Me4 / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"}
-  Me5 / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list"}
+  Me / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/qwant770/proxyclash/refs/heads/main/cn.list"}
+  Me1 / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list"}
+  Me2 / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"}
+  Me3 / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list"}
+  Me4 / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"}
+  Me5 / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list"}
   China / IP: {<<: *ip, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
   Private / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
   Block / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list"}
