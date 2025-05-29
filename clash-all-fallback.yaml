@@ -404,6 +404,11 @@ rules:
   - RULE-SET,Direct / Domain,国内
   - RULE-SET,China / Domain,国内
   - RULE-SET,Me / Domain,国内
+  - RULE-SET,Me1 / Domain,国内
+  - RULE-SET,Me2 / Domain,国内
+  - RULE-SET,Me3 / Domain,国内
+  - RULE-SET,Me4 / Domain,国内
+  - RULE-SET,Me5 / Domain,国内
   - RULE-SET,China / IP,国内,no-resolve
   - RULE-SET,Private / Domain,国内
   - MATCH,其他
@@ -457,6 +462,11 @@ rule-providers:
   Direct / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Direct.list"}
   China / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
   Me / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/qwant770/proxyclash/refs/heads/main/cn.list"}
+  Me1 / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list"}
+  Me2 / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"}
+  Me3 / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list"}
+  Me4 / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"}
+  Me5 / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list"}
   China / IP: {<<: *ip, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
   Private / Domain: {<<: *domain, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
   Block / Domain: {<<: *class, url: "https://github.moeyy.xyz/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list"}
