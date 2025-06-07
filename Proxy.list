@@ -12,19 +12,20 @@ DOMAIN-KEYWORD,v2ray
 DOMAIN-KEYWORD,onlyfans
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,rou.video,🌍 国外
-DOMAIN-SUFFIX,rou.pub,🌍 国外
-DOMAIN-SUFFIX,rn91.xyz,🌍 国外
-DOMAIN-SUFFIX,rn90.xyz,🌍 国外
-DOMAIN-SUFFIX,rn94.xyz,🌍 国外
-DOMAIN-SUFFIX,rn97.xyz,🌍 国外
-DOMAIN-SUFFIX,rn113.xyz,🌍 国外
-DOMAIN-SUFFIX,rn123.xyz,🌍 国外
-DOMAIN-SUFFIX,rn134.xyz,🌍 国外
-DOMAIN-SUFFIX,rn145.xyz,🌍 国外
-DOMAIN-SUFFIX,rn147.xyz,🌍 国外
-DOMAIN-SUFFIX,rn121.xyz,🌍 国外
-DOMAIN-SUFFIX,mjjspeed.com,🌍 国外
-DOMAIN-SUFFIX,mxwljsq.top,🌍 国外
-DOMAIN-SUFFIX,v2rayssr.com,🌍 国外
-DOMAIN-SUFFIX,onlyfans.com,🌍 国外
+DOMAIN-SUFFIX,rou.video
+DOMAIN-SUFFIX,rou.pub
+DOMAIN-SUFFIX,rn91.xyz
+DOMAIN-SUFFIX,rn90.xyz
+DOMAIN-SUFFIX,rn94.xyz
+DOMAIN-SUFFIX,rn97.xyz
+DOMAIN-SUFFIX,rn113.xyz
+DOMAIN-SUFFIX,rn123.xyz
+DOMAIN-SUFFIX,rn134.xyz
+DOMAIN-SUFFIX,rn145.xyz
+DOMAIN-SUFFIX,rn147.xyz
+DOMAIN-SUFFIX,rn121.xyz
+DOMAIN-SUFFIX,mjjspeed.com
+DOMAIN-SUFFIX,mxwljsq.top
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,ipify.org
