@@ -7,37 +7,7 @@
 proxy-providers:
 
   猫耳:
-    url: "https://dy.m2dy.sbs/api/v1/client/subscribe?token=08b854f65d0723f2783508cb0bc2c073"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连 
-    
-  红杏:
-    url: "https://hongxingdl.love/hxyunvip?token=886114f17a0fbfd8f503acacc7d7ca1d"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连    
-
-  自建:
-    url: "https://sub.20210324.xyz/P4y6g72GvgFrJAVLX9Eu/download/%E8%87%AA%E5%BB%BA"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连    
-
-  BV:
-    url: "https://v451wcah.prosubnet02.eu:8443/api/v1/client/ff1de8e78bccc7a459e3d72ef0bd98cd"
+    url: "..................."
     type: http
     interval: 86400
     health-check:
