@@ -1,4 +1,4 @@
 IP-CIDR,223.111.179.0/24,no-resolve
-IP-CIDR,58.216.95.20/32,no-resolve
+IP-CIDR,58.216.95.20/24,no-resolve
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,ddnsto.com
