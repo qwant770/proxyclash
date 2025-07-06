@@ -10,7 +10,9 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 直连
-
+    override:
+      additional-prefix: "MyNode→"
+      #additional-suffix: "| 后缀"
 # 节点信息
 proxies:
   - {name: 直连, type: direct}
